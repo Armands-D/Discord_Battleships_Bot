@@ -10,4 +10,4 @@ Type:
 !h
 For a list of bot commands
 
-![Image of the game board when attacked.](https://github.com/Armands-D/Discord_Battleships_Bot/blob/master/attacked_board.png?raw=true)
+![Image of the game board when attacked.](https://github.com/Armands-D/Discord_Battleships_Bot/master/attacked_board.png?)
