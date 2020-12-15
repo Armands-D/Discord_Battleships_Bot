@@ -9,3 +9,5 @@ DISCORD_GUILD={your-guild-name}
 Type:
 !h
 For a list of bot commands
+
+![alt text](https://github.com/Armands-D/Discord_Battleships_Bot/blob/master/attacked_board.png?raw=true)
